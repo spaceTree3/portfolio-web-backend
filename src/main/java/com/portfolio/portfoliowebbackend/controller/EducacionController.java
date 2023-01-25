@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import com.portfolio.portfoliowebbackend.model.Educacion;
 import com.portfolio.portfoliowebbackend.service.IEducacionService;
 
+
 @RestController
 public class EducacionController{
 

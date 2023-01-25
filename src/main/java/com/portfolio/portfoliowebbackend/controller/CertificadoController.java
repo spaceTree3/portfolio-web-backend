@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import com.portfolio.portfoliowebbackend.model.Certificado;
 import com.portfolio.portfoliowebbackend.service.ICertificadoService;
 
+
 @RestController
 public class CertificadoController{
 
