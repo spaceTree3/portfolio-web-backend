@@ -21,7 +21,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @Configuration
 
-@CrossOrigin(origins = "https://portfolioweb-33642.web.app")
+@CrossOrigin(origins = "*")
 
 public class WebConfig implements WebMvcConfigurer {
 
